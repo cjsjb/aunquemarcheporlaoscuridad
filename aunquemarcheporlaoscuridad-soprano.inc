@@ -100,7 +100,7 @@
 	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
 		% Estribillo
 		Aun -- que mar -- che por "la os" -- cu -- ri -- dad
-		na -- "dahe" de te -- mer, __
+		na -- "da he" de te -- mer, __
 		por que Tú con -- mi -- go vas,
 		mi pas -- tor que "me ha" -- ce so -- se -- gar. __
 
@@ -112,7 +112,7 @@
 
 		% Estribillo
 		Aun -- que mar -- che por "la os" -- cu -- ri -- dad
-		na -- "dahe" de te -- mer, __
+		na -- "da he" de te -- mer, __
 		por que Tú con -- mi -- go vas,
 		mi pas -- tor que "me ha" -- ce so -- se -- gar. __
 
@@ -124,7 +124,7 @@
 
 		% Estribillo
 		Aun -- que mar -- che por "la os" -- cu -- ri -- dad
-		na -- "dahe" de te -- mer, __
+		na -- "da he" de te -- mer, __
 		por que Tú con -- mi -- go vas,
 		mi pas -- tor que "me ha" -- ce so -- se -- gar. __
 
@@ -136,7 +136,7 @@
 
 		% Estribillo
 		Aun -- que mar -- che por "la os" -- cu -- ri -- dad
-		na -- "dahe" de te -- mer, __
+		na -- "da he" de te -- mer, __
 		por que Tú con -- mi -- go vas,
 		mi pas -- tor que "me ha" -- ce so -- se -- gar, __
 		mi pas -- tor que "me ha" -- ce so -- se -- gar, __
