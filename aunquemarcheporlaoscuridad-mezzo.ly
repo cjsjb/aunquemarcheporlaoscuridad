@@ -5,6 +5,7 @@
 \header {
 	title = "Aunque marche por la oscuridad"
 	tagline = "Coro Juvenil San Juan Bosco"
+	instrument = "Mezzosoprano"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
@@ -28,9 +29,7 @@ globalTempo = {
 
 		\include "aunquemarcheporlaoscuridad-acordes.inc"
 		\new StaffGroup <<
-			\include "aunquemarcheporlaoscuridad-soprano.inc"
 			\include "aunquemarcheporlaoscuridad-mezzo.inc"
-			\include "aunquemarcheporlaoscuridad-tenor.inc"
 		>>
 	>>
 
