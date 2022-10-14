@@ -97,7 +97,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		% Estribillo
 		Aun -- que mar -- che por "la os" -- cu -- ri -- dad
 		na -- "da he" de te -- mer, __
